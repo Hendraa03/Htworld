@@ -24,7 +24,7 @@ local StorageDoorBlockID = ""
 local PackDropWorld = ""
 local PackDropDoorID = ""
 
-local WebhookUrl = ""
+local WebhookUrl = "https://discord.com/api/webhooks/1388856997713285132/XJksPr4asSEJ_KRxEcEKM9jB6KBCZ1DlXZfNPWrO7ACV5AaDhh0z3HKvDGK8V9qf9R7t"
 local YourDiscordID = ""
 
 local delayHarvest = 130
